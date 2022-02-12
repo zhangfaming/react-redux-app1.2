@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "ajv": "^6.5.2",
+    "ajv": "^6.12.3",
     "gulp": "^4.0.2",
     "less": "^2.7.3",
     "react": "^16.4.1",
